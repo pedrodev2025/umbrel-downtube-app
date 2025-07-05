@@ -6,6 +6,6 @@ icon: icon.png # Certifique-se de ter um arquivo icon.png na mesma pasta
 developer: PedroDev2025
 website: https://github.com/pedrodev2025/Downtube # Link para seu repositório principal
 support: https://github.com/pedrodev2025/Downtube/issues # Onde os usuários podem reportar problemas
-repo: https://github.com/pedrodev2025/umbrel-downtube-app # Link para este repositório de apps
+repo: https://github.com/pedrodev2025/umbrel-downtube-app.git # Link para este repositório de apps
 ports:
   - 3000
