@@ -1,0 +1,4 @@
+id: pedrodev2025-app-store # Um ID único para SUA loja de apps
+name: PedroDev2025 App Store
+description: Aplicativos desenvolvidos por PedroDev2025 para o Umbrel.
+repo: https://github.com/pedrodev2025/umbrel-downtube-app
