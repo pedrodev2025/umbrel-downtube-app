@@ -2,7 +2,7 @@ id: downtube
 name: Downtube
 version: "0.0.1"
 description: Seu downloader de vídeos do YouTube fácil de usar, com frontend próprio e backend yt-dlp.
-icon: icon.png # Certifique-se de ter um arquivo icon.png na mesma pasta
+icon: icon.png
 developer: PedroDev2025
 website: https://github.com/pedrodev2025/Downtube # Link para seu repositório principal
 support: https://github.com/pedrodev2025/Downtube/issues # Onde os usuários podem reportar problemas
